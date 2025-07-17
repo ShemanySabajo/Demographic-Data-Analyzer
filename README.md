@@ -1,8 +1,8 @@
-Demographic Data Analyzer
-Project Overview
+# Demographic Data Analyzer
+#### Project Overview
 This project analyzes demographic data extracted from the 1994 Census database using Python and Pandas. It explores patterns related to race, education, income, working hours, and occupations.
 
-Features
+#### Features
 Counts how many people of each race are represented.
 
 Calculates average age of men.
@@ -17,7 +17,7 @@ Identifies the country with the highest percentage of high earners (>50K).
 
 Determines the most popular occupation among high earners in India.
 
-Technologies Used
+#### Technologies Used
 Python
 Pandas library for data manipulation
 VS Code 
