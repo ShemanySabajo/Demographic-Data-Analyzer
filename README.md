@@ -18,7 +18,7 @@ Identifies the country with the highest percentage of high earners (>50K).
 Determines the most popular occupation among high earners in India.
 
 Technologies Used
-Python 3.x
+Python
 Pandas library for data manipulation
 VS Code 
 
